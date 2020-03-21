@@ -5,7 +5,7 @@ git_source(:github) do |repo_name|
   "https://github.com/#{repo_name}.git"
 end
 
-gem 'bootstrap', '~> 4.1.3'
+gem 'bootstrap', '~> 4.3.1'
 gem 'cancancan'
 gem 'carrierwave'
 gem 'coffee-rails', '~> 4.2'
@@ -16,7 +16,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'jquery-countdown-rails'
 gem 'jquery-rails'
 gem 'mini_magick'
-gem 'puma', '~> 3.7'
+gem 'puma', '~> 3.12'
 gem 'rails', '~> 5.1.6', '>= 5.1.6.1'
 gem 'rails_admin'
 gem 'sass-rails', '~> 5.0'
